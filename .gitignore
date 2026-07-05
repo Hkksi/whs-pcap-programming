@@ -1,0 +1,8 @@
+/build/
+*.o
+*.obj
+*.exe
+*.pcap
+*.pcapng
+.vscode/
+.idea/
